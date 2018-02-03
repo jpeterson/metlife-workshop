@@ -1,0 +1,28 @@
+/*
+colors
+#d2e9f9
+#0079c1
+#5a9359
+
+
+*/
+
+dl {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 0 16px 0 rgba(0, 0, 0, 0.05);
+  padding: 0.5em;
+}
+dt {
+  float: left;
+  clear: left;
+  width: 130px;
+  text-align: right;
+  font-weight: bold;
+  color: #5a9359;
+}
+dt::after {
+  content: ":";
+}
+dd {
+  margin: 0 0 0 150px;
+  padding: 0 0 0.5em 0;
+}

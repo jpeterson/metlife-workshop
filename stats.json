@@ -1,0 +1,68 @@
+{
+  "assetsByChunkName": {
+    "path---maps-exercise-3": [
+      "path---maps-exercise-3-4a450bcdc4df7b548a37.js",
+      "path---maps-exercise-3-4a450bcdc4df7b548a37.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b9bdb333c2927f78c4dc.js",
+      "component---src-pages-index-js-b9bdb333c2927f78c4dc.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---maps-exercise-2": [
+      "path---maps-exercise-2-68ea0237f16be499680a.js",
+      "path---maps-exercise-2-68ea0237f16be499680a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---plat-builder-exercise-1": [
+      "path---plat-builder-exercise-1-2f9a797527439f0f4e4d.js",
+      "path---plat-builder-exercise-1-2f9a797527439f0f4e4d.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-88d368ca78debb975653.js",
+      "component---src-templates-blog-post-js-88d368ca78debb975653.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-14d071b2523fe6ef9717.js",
+      "component---src-layouts-index-js-14d071b2523fe6ef9717.js.map"
+    ],
+    "path---index": [
+      "path---index-8edf2de293dd53f7594a.js",
+      "path---index-8edf2de293dd53f7594a.js.map"
+    ],
+    "commons": [
+      "commons-3cf304937523a964e309.js",
+      "build-js-styles.css",
+      "commons-3cf304937523a964e309.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---maps-exercise-1": [
+      "path---maps-exercise-1-477fac114e542e4d12ac.js",
+      "path---maps-exercise-1-477fac114e542e4d12ac.js.map"
+    ],
+    "path---plat-builder-exercise-3": [
+      "path---plat-builder-exercise-3-29d06ea61035d2f0a5e7.js",
+      "path---plat-builder-exercise-3-29d06ea61035d2f0a5e7.js.map"
+    ],
+    "app": [
+      "app-0719aef340fab854dafc.js",
+      "build-js-styles.css",
+      "app-0719aef340fab854dafc.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---plat-builder-exercise-2": [
+      "path---plat-builder-exercise-2-d76ffeaada6a277a821e.js",
+      "path---plat-builder-exercise-2-d76ffeaada6a277a821e.js.map"
+    ]
+  }
+}

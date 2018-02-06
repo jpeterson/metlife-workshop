@@ -5,6 +5,12 @@ date: "2018-01-04"
 
 In this exercise, we will explore the **MAPS interface** so that we are comfortable navigating the website to find what we need.
 
+Here are some links to useful Esri documentation as we go through this section. Remember that these documentation pages are generic to **ArcGIS Enterprise**.
+
+- [Getting Started](http://enterprise.arcgis.com/en/portal/10.5/use/get-started-portal.htm)
+- [Use Search](http://enterprise.arcgis.com/en/portal/10.5/use/search.htm)
+- [What is a Group?](http://enterprise.arcgis.com/en/portal/10.5/use/groups.htm)
+
 ## MAPS Homepage
 
 1. Navigate to the [MAPS Homepage](https://metlifeag-stage.esriemcs.com).
@@ -49,4 +55,22 @@ The **My Content** page is where you will manage all the content you will create
 
     ℹ️  Note that there are some cases where a Plat Package *does not include a feature layer*, so if you don't see one, don't worry!
 
+3. Take a look at each of the items in this folder, you can see the **Title**, **Type**, **Modified**, and **Shared** properties of each item. These properties may come in handy if you are troubleshooting an issue with your package.
+
 ## Search
+
+Now that we're familiar with **My Content**, let's see how we can discover **content published by other people**.
+
+⚠️  Remember that if you are simply searching for a Plat Package, you should do that from the **Plat Builder dashboard**. The **MAPS Search** is helpful when you need to find the underlying items that make up a package.
+
+We can search for content from any page by typing into the **Search** in the top right corner of the page.
+
+1. Click in the **Search** and type **Holly Bluff**.
+
+    ⚠️ A fake Plat Package named Holly Bluff was created for this workshop -- if you're going through this exercise at a later date, its possible it doesn't exist anymore. In that case just search for a package name you created during the **Plat Builder Exercises**.
+
+    The **Search Results** page includes a list of your results along with a few handy ways to sort and filter them. Since this is a more advanced workflow, we won't spend time going through all these options now, but feel free to poke around on this page for a bit if you're interested.
+
+## Wrapping it up
+
+This exercise was pretty loose, and was meant to show you around the MAPS Interface so you feel more comfortable finding what you need, when you need it. Remember that most of the pages we discovered during this exercise are not necessary when you're platting, but come in very handy when you need to do something advanced or are troubleshooting an issue.
